@@ -29,17 +29,17 @@ func (jst *JsonStruct) Load(filename string, v interface{}) {
 }
 
 type MyConfig struct {
-	DbConnStr        string
-	MainTable        string
-	PicsTable        string
+	DbConnStr        string // mysql Connect String
+	MainTable        string //  mysql main table
+	PicsTable        string // mysql pics table
 	StartUrl         string
 	SubPageUrlSplite string
 	PageRe           string
 	PicsRe           string
-	PicsPath         string
-	ThreadCount      int
-	IntStartPage     int
-	IntEndPage       int
+	PicsPath         string // save Pics Path
+	ThreadCount      int // ThreadCount 
+	IntStartPage     int // start page
+	IntEndPage       int // end page
 }
 
 var (

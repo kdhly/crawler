@@ -1,4 +1,4 @@
-# quick start
+﻿# quick start
 
 get and run golangbbs &emsp;&emsp;&emsp;&emsp;[(中文)](/READMECN.md)
 
@@ -53,15 +53,3 @@ If this project makes you feel good, You can donate to the following link to bet
 ## Screenshots ：<br /><br />
 #### mainpage 
 >![11](/static/img/screenshots/mainpage.jpg)  <br /><br />
-#### publish 
->![11](/static/img/screenshots/publish.jpg)  <br /><br />
-#### show content 1
->![11](/static/img/screenshots/show1.jpg)  <br /><br />
-#### show content 2
->![11](/static/img/screenshots/show2.jpg)  <br /><br />
-#### display photo 
->![11](/static/img/screenshots/photoshow1.jpg)  <br /><br />
-#### manage1 
->![11](/static/img/screenshots/manage1.jpg)  <br /><br />
-#### manage2 
->![11](/static/img/screenshots/manage2.jpg)  <br /><br />
