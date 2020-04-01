@@ -11,11 +11,7 @@ get and run golangbbs &emsp;&emsp;&emsp;&emsp;[(中文)](/READMECN.md)
 ### components:
 
 	go get github.com/Sirupsen/logrus  
-	go get github.com/gin-contrib/sessions  
-	go get github.com/gin-gonic/gin  
 	go get github.com/go-sql-driver/mysql  
-	go get github.com/mattn/go-sqlite3  
-	go get github.com/quasoft/memstore  
 	etc  
 
 
