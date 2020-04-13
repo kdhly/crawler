@@ -1,6 +1,6 @@
 ﻿# quick start
 
-get and run golangbbs &emsp;&emsp;&emsp;&emsp;[(中文)](/READMECN.md)
+get and run crawler &emsp;&emsp;&emsp;&emsp;[(中文)](/READMECN.md)
 
 ## 1. Source mode
 	
@@ -16,8 +16,7 @@ get and run golangbbs &emsp;&emsp;&emsp;&emsp;[(中文)](/READMECN.md)
 
 
 
-# configuration file: bbs_config_main_i18n_xxx.json
-you can change the IPAddr to 127.0.0.1 to visit it only on your local machine, The default database is sqlite3 , you can import .sql in golangbbs/dist/mysql directory to your mysql database and change DbType to "mysql" if you want to use mysql.
+# configuration file: config_main.json
 
 # Structure and Features:
 golang  
@@ -36,8 +35,6 @@ or visit link: http://www.golangbbs.com/?page=bbs&category=XWdNEvaL_go
 
 ## tips:
 If you have good projects or suggestions, we can help you realize it
-## Special thanks:
-@fhst, @kdhly, and all function modules used in the project structure and plug-ins; and other function module not listed;
 
 ## Give me a star
 If you like or plan to use this project,please give me a star, thank you!
